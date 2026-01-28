@@ -1,4 +1,4 @@
-FROM n8nio/n8n:1.69.0
+FROM n8nio/n8n:2.4.6
 
 ENV TZ=UTC
 EXPOSE 5678
